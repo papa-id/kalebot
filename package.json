@@ -5,7 +5,7 @@
   "main": "1.js",
   "type": "module",
   "scripts": {
-    "start": "node 1.js",
+    "start": "node main.js",
     "dev": "node --watch 1.js"
   },
   "keywords": [
