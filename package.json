@@ -1,11 +1,11 @@
 {
-  "name": "testnet-bot",
+  "name": "kaleido-testnet-bot",
   "version": "1.0.0",
-  "description": "Automated bot for Kaleido Testnet activities including staking, lending, and faucet claiming",
-  "main": "1.js",
+  "description": "Automated bot for Kaleido Testnet activities ",
+  "main": "main.js",
   "type": "module",
   "scripts": {
-    "start": "node main.js",
+    "start": "main.js",
     "dev": "node --watch main.js"
   },
   "keywords": [
