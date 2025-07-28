@@ -1,0 +1,30 @@
+{
+  "name": "testnet-bot",
+  "version": "1.0.0",
+  "description": "Automated bot for Kaleido Testnet activities including staking, lending, and faucet claiming",
+  "main": "1.js",
+  "type": "module",
+  "scripts": {
+    "start": "node 1.js",
+    "dev": "node --watch 1.js"
+  },
+  "keywords": [
+    "kaleido",
+    "testnet",
+    "bot",
+    "ethereum",
+    "defi",
+    "staking",
+    "lending"
+  ],
+  "author": "papa-id",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.8.1",
+    "https-proxy-agent": "^7.0.2",
+    "socks-proxy-agent": "^8.0.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
