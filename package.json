@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "node main.js",
-    "dev": "node --watch 1.js"
+    "dev": "node --watch main.js"
   },
   "keywords": [
     "kaleido",
